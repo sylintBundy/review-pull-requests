@@ -151,7 +151,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Suggest changes</h2></summary>
 
 _Nice work reviewing that pull request :sparkles:_
@@ -181,7 +181,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Apply suggested changes</h2></summary>
 
 _Nicely done suggesting changes! :partying_face:_
