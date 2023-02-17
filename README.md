@@ -80,7 +80,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Assign yourself</h2></summary>
 
 _Great job opening that pull request! :wave:_
@@ -107,7 +107,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Leave a review</h2></summary>
 
 _You assigned yourself! :tada:_
